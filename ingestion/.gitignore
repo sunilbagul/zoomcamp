@@ -1,4 +1,5 @@
-dockerdemo/output.csv.gz
+secrets.txt
+ingestion/dockerdemo/output.csv.gz
 terraform-demo/keys/cred.json
 # Local .terraform directories
 **/.terraform/*
