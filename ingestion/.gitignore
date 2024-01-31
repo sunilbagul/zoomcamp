@@ -1,5 +1,6 @@
 secrets.txt
-../terraform-demo/keys/cred.json
+terraform-demo/keys/cred.json
+/workspaces/zoomcamp/terraform-demo/keys/cred.json
 ingestion/dockerdemo/output.csv.gz
 terraform-demo/keys/cred.json
 # Local .terraform directories
