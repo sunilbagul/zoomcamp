@@ -1,5 +1,5 @@
 secrets.txt
-*.json
+cred.json
 terraform-demo/keys/cred.json
 /workspaces/zoomcamp/terraform-demo/keys/cred.json
 ingestion/dockerdemo/output.csv.gz
